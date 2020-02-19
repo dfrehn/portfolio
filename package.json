@@ -7,17 +7,20 @@
     "@material-ui/icons": "^4.4.3",
     "classnames": "^2.2.6",
     "contentful": "^7.10.0",
+    "dropbox": "^4.0.30",
     "normalize.css": "^8.0.1",
     "particles.js": "^2.0.0",
     "particlesjs": "^2.2.3",
     "react": "^16.10.2",
     "react-animated-slider": "^2.0.0",
+    "react-async-image": "^3.0.0",
     "react-background-slider": "^1.2.0",
     "react-burger-menu": "^2.6.11",
     "react-dom": "^16.10.2",
     "react-particles-js": "^2.7.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.4.0",
+    "react-shimmer": "^2.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

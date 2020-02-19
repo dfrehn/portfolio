@@ -11,3 +11,79 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@font-face {
+  font-family: 'EurostileBold';
+  src: local('EurostileBold'), url(./fonts/EurostileLTStd-Bold.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileBoldCn';
+  src: local('EurostileBoldCn'), url(./fonts/EurostileLTStd-BoldCn.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileBoldEx2';
+  src: local('EurostileBoldEx2'), url(./fonts/EurostileLTStd-BoldEx2.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileBoldOblique';
+  src: local('EurostileBoldOblique'), url(./fonts/EurostileLTStd-BoldOblique.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileCn';
+  src: local('EurostileCn'), url(./fonts/EurostileLTStd-BoldCn.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileDemi';
+  src: local('EurostileDemi'), url(./fonts/EurostileLTStd-Demi.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileDemiOblique';
+  src: local('EurostileDemiOblique'), url(./fonts/EurostileLTStd-DemiOblique.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileEx2';
+  src: local('EurostileEx2'), url(./fonts/EurostileLTStd-Ex2.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'EurostileOblique';
+  src: local('EurostileOblique'), url(./fonts/EurostileLTStd-Oblique.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Eurostile';
+  src: local('Eurostile'), url(./fonts/EurostileLTStd.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoBlack';
+  src: local('RobotoBlack'), url(./fonts/Roboto-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoBlackItalic';
+  src: local('RobotoBlackItalic'), url(./fonts/Roboto-BlackItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoBold';
+  src: local('RobotoBold'), url(./fonts/Roboto-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoBoldItalic';
+  src: local('RobotoBoldItalic'), url(./fonts/Roboto-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'RobotoItalic';
+  src: local('RobotoItalic'), url(./fonts/Roboto-Italic.ttf) format('truetype');
+}
+
