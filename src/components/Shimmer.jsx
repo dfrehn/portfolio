@@ -143,7 +143,6 @@ export class Shimmer extends React.Component {
         </>
       );
     }
-    console.log(loop)
     return (
       <Grid container sm={12} align="center" className={classes.container}>
         <Grid item sm={4} />
